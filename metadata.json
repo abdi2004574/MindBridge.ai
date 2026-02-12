@@ -1,0 +1,7 @@
+{
+  "name": "MindBridge AI: Emotional Insight Companion",
+  "description": "A therapeutic AI companion specializing in CBT-based support, featuring real-time vocal emotion analysis and 'Voice vs. Words' mismatch detection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
